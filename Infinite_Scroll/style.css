@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #068eb8;
+  }
+  
+.container {
+    height: 50%;
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  .scroll_div {
+    width: 50%;
+    margin: 1% auto;
+    
+  }
+  
+  .scroll_div > div {
+    border: 1px solid #9132a1;
+    color: #3e0550;
+    width: 50%;
+    margin: auto;
+    margin: 1% auto;
+    padding: 1%;
+  }
